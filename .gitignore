@@ -4,23 +4,7 @@
 *.tfstate.*
 crash.log
 
-# Variable files
-*.tfvars
-*.tfvars.json
-
-# Plan files
-*.tfplan
 
 # Sensitive files
 terraform.tfstate.backup
 
-# IDE
-.vscode/
-.idea/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# PEM Keys
-*.pem
